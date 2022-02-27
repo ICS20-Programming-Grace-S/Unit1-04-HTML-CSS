@@ -9,12 +9,21 @@ body {
 }
 
 h1 {
-      background-color:#c0ded9;
-      color: #3b3a30;
-      padding: 40px;
-      text-align: center;
-    }
+  background-color:#c0ded9;
+  color: #3b3a30;
+  padding: 40px;
+  text-align: center;
+}
 
 p {
   background-color: #eaece5;
 }
+
+p {
+  border-style: solid;
+  border-color: #20B2AA;
+}
+
+p {
+  font-family:Monospace;
+  font-size: 15px;

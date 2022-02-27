@@ -1,0 +1,33 @@
+/*Created by: Grace S
+*Created on: Feb 2022
+*This CSS file defines the style for more_style.html
+*ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: #B0E0E6;
+}
+
+h1 {
+  background-color: #87CEEB;
+  color: #191970;
+  padding: 10px;
+  text-align: center;
+}
+
+h3 {
+  background-color:#F66A4F;
+  color: #E6E6FA;
+  text-align: center;
+}
+
+tr {
+  background-color:#F5FFFA;
+  color: hsl(60, 0%, 0%);
+  text-align: center;
+}
+
+ol {
+  background-color: #B0E0E6;
+  color: hsl(17, 0%, 0%);
+}
